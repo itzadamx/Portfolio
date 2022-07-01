@@ -1,0 +1,16 @@
+{
+    "experiences": [
+        {
+            "title": "Web Developer",
+            "subtitle": "VIP Shipping LLC",
+            "workType": "FreeLance",
+            "workDescription": [
+                "Managed the company's website on WordPress.",
+                "Handled adding WordPress **themes** and **plugins**.",
+                "Reduced the loading speed by **30%**.",
+                "Improved the SEO by 20% via adding relevant **MetaTags** to"
+            ],
+            "dateText": "04/21 – 10/21"
+        }
+    ]
+}

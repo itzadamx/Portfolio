@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "",
+            "cardTitle": "Software Eng Technician Diploma ",
+            "cardSubtitle":"Centennial College, Toronto",
+            "cardDetailedText": "GPA: 3.88"
+        },
+        {
+            "title": "",
+            "cardTitle": "High School Diploma",
+            "cardSubtitle":"Al Rashed Al Saleh Private School, Dubai",
+            "cardDetailedText": "Grade - 93%"
+        }
+    ]
+}

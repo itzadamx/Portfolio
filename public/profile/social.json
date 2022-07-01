@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/adam-daabaz/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/itzadamx"
+        },
+        {
+            "network" : "email",
+            "href": "adamdaabaz13@gmail.com"
+        }
+    ]
+}

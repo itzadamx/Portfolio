@@ -1,0 +1,131 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/survey.png",
+            "title": "Survey Site",
+            "bodyText": "- Survey App is a MEAN stack based Web-Application. \n -  Allows Users to create their own surveys and have control over their answers.\n - This  tool delivers a complete survey, user management,and encryption system to protect your data",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/COMP228-Project"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://comp229-survey-project.herokuapp.com/home"
+                }
+            ],
+            "tags" : [
+                "MEAN Stack",
+                "Bootstrap",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/weatheria.png",
+            "title": "Weatheria",
+            "bodyText": "- Weather app that displays the climate conditions based on their search input using open weather API.\n - Search functionality to search up cities via the search bar to look for weather conditions.\n - A React JS Web application.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/Weatheria"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://weatheria-application.netlify.app"
+                }
+            ],
+            "tags" : [
+                "React JS",
+                "Bootstrap",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/ourrecipes.png",
+            "title": "Our Recipes",
+            "bodyText": "- An AllRecipes clone Remix based Web Application.\n - Search functionality to search up ingredients & recipe titles .\n - Integrated  User managment & profile subsystem",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/G9-W2022-COMP231/OurRecipes"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://our-recipes-kitchen-surfers.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "Remix",
+                "Javascript",
+                "Bootstrap",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/f1.png",
+            "title": "F1 Gallery",
+            "bodyText": "- A Javascript app that allows you to pick your favorite F1 Car for display.\n - Uses favorite bar to display pictures of your own liking.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/F1-Gallery"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            
+            "title": "Bank Account App",
+            "bodyText": "- A Windows forms App that registers an account for a user.\n - C# based application with the usuage of the .NET windows forms packages.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/Bank-Account"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Windows",
+                ".NET",
+                "Form"
+            ]
+        },
+        {
+            "image" : "images/projects/bug.png",
+            "title": "Bug Smasher Game",
+            "bodyText": "- A Javascript based game that allows you to smash bug with a live score, speed and reset buttons\n - Uses the **Canvas** architecture for the basic logic.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/bug-smasher"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Canvas"
+            ]
+        },
+        {
+            "title": "Python Ai mini projects",
+            "bodyText": "- An AI/ machine learning python based projetcs.\n - Uses modern libraries as Tensorflow, NTLK, and Matplotlib.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/python-machineLearing"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "AI",
+                "Machine Learning"
+            ]
+        }
+    ]
+}
