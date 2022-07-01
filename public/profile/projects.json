@@ -1,149 +1,130 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/survey.png",
+            "title": "Survey Site",
+            "bodyText": "- Survey App is a MEAN stack based Web-Application. \n -  Allows Users to create their own surveys and have control over their answers.\n - This  tool delivers a complete survey, user management,and encryption system to protect your data",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/itzadamx/COMP228-Project"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://comp229-survey-project.herokuapp.com/home"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
+                "MEAN Stack",
+                "Bootstrap",
                 "JavaScript"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/weatheria.png",
+            "title": "Weatheria",
+            "bodyText": "- Weather app that displays the climate conditions based on their search input using open weather API.\n - Search functionality to search up cities via the search bar to look for weather conditions.\n - A React JS Web application.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/itzadamx/Weatheria"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://weatheria-application.netlify.app"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
-            ]
-        },
-        {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
-                }
-            ],
-            "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
-            ]
-        },
-        {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
-        },
-        {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
-                }
-            ],
-            "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
-            ]
-        },
-        {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
-                }
-            ],
-            "tags" : [
-                "TypeScript",
-                "Angular 12",
+                "React JS",
+                "Bootstrap",
                 "JavaScript"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "image" : "images/projects/ourrecipes.png",
+            "title": "Our Recipes",
+            "bodyText": "- An AllRecipes clone Remix based Web Application.\n - Search functionality to search up ingredients & recipe titles .\n - Integrated  User managment & profile subsystem",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                    "href": "https://github.com/G9-W2022-COMP231/OurRecipes"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://our-recipes-kitchen-surfers.herokuapp.com/"
+                }
+            ],
+            "tags" : [
+                "Remix",
+                "Javascript",
+                "Bootstrap",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/f1.png",
+            "title": "F1 Gallery",
+            "bodyText": "- A Javascript app that allows you to pick your favorite F1 Car for display.\n - Uses favorite bar to display pictures of your own liking.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/F1-Gallery"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            
+            "title": "Bank Account App",
+            "bodyText": "- A Windows forms App that registers an account for a user.\n - C# based application with the usuage of the .NET windows forms packages.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/Bank-Account"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Windows",
+                ".NET",
+                "Form"
+            ]
+        },
+        {
+            "image" : "images/projects/bug.png",
+            "title": "Bug Smasher Game",
+            "bodyText": "- A Javascript based game that allows you to smash bug with a live score, speed and reset buttons\n - Uses the **Canvas** architecture for the basic logic.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/bug-smasher"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Canvas"
+            ]
+        },
+        {
+            "title": "Python Ai mini projects",
+            "bodyText": "- An AI/ machine learning python based projetcs.\n - Uses modern libraries as Tensorflow, NTLK, and Matplotlib.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/itzadamx/python-machineLearing"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "AI",
+                "Machine Learning"
             ]
         }
     ]

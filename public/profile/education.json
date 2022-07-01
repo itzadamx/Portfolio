@@ -1,19 +1,16 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
-            }
+            "title": "",
+            "cardTitle": "Software Eng Technician Diploma ",
+            "cardSubtitle":"Centennial College, Toronto",
+            "cardDetailedText": "GPA: 3.88"
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "",
+            "cardTitle": "High School Diploma",
+            "cardSubtitle":"Al Rashed Al Saleh Private School, Dubai",
+            "cardDetailedText": "Grade - 93%"
         }
     ]
 }

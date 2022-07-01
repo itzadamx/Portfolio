@@ -1,5 +1,5 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
+    "about": " Hello there, I am Adam, an upcoming Software Engineer from Toronto, Canada.\n\n\nA recent graduate from Centennial College. 2+ years experience in Software development. I am into discovering and learning Frameworks and development environments. Interested in devising a better problem‑solving method for challenging tasks and learning new technologies and tools if the need arises. \n\n\n I enjoy working on side projects to upskill myself and learn new stuff. I am not only skilled in Web Development but also proficient in C# development and Deep Learning Technologies. I have also dabbled in Web technologies like Angular, Express, Node, React, and Remix and built some projects using them, including this website.",
+    "imageSource": "images/about/profile.jpg"
     
 }
