@@ -2,12 +2,25 @@
     "experiences": [
         {
             "title": "Web Developer",
-            "subtitle": "VIP Shipping LLC",
-            "workType": "Full Time",
+            "subtitle": "Association Marocaine de Toronto",
+            "workType": "Contract",
             "workDescription": [
-                "Design and establish a user‑friendly website, including an optimized home page, resulting in a 30% increase in user clicks and subsequently 15% in customer services.",
-                "Provide adequate training to 10+ staff members and 2+ junior web developers in internal web functions, including steps on how to make minor updates/changes independently.", 
-                "Establish an interactive and dynamic website that guarantees high traffic, page views, and maximum user experience, generating a 20% increase in the company’s SEO optimization.",
+                "Developed a new WordPress website, significantly improving the company's online presence and user experience.",
+                "Enhanced website performance by over 70%, resulting in faster load times and better overall functionality.",
+                "Improved SEO by 50%, leading to increased visibility and higher search engine rankings.", 
+                "Implemented accessibility features, ensuring the site is user-friendly for individuals with disabilities & full responsiveness, optimizing the site for various devices",
+                "Migrated over 60% of content from the old site to the new one, preserving essential information while modernizing the layout and design.",
+                "Established On-Site Payment via Stripe gateway, generating over 2000$ within the first three months of deployment."
+            ],
+            "dateText": "05/2023 – 2/2024"
+        },
+        {
+            "title": "Wordpress Developer",
+            "subtitle": "VIP Shipping LLC",
+            "workType": "Intership",
+            "workDescription": [
+                "Establish a user‑friendly website, including an optimized home page, resulting in a 30% increase in user clicks and subsequently 15% in customer services.", 
+                "Created an interactive and dynamic website that guarantees high traffic, page views, and maximum user experience, generating a 20% increase in the company’s SEO optimization.",
                 "Formulated and implemented improvements on cleanup processes and performance, minimizing loading time by 30%.",
                 "Devised custom responsive WordPress site that included advanced WordPress features, such as Advanced Custom Fields, Custom Post Types, and WordPress Customize API.",
                 "Diagnosed and troubleshoot different technical issues of the company’s critical clients by deploying updated knowledge of modern technologies and techniques in the industry"
