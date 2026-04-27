@@ -1,14 +1,39 @@
 {
     "experiences": [
         {
+            "title": "E-Commerce Developer",
+            "subtitle": "Alandalus Maghribi LLC",
+            "workType": "Full Time",
+            "workDescription": [
+                "Designed and established a user-friendly website including an optimized home page, resulting in a **30% increase** in user clicks and **15%** growth in customer services.",
+                "Diagnosed and troubleshot technical issues for the company's critical clients using modern technologies and industry techniques.",
+                "Devised a custom responsive **Shopify** site with advanced features including Advanced Custom Fields, Custom Post Types, and Shopify Customize CSS styling."
+            ],
+            "dateText": "04/24 – 10/25"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Association Marocaine de Toronto",
+            "workType": "Full Time",
+            "workDescription": [
+                "Developed a new **WordPress** website, significantly improving the company's online presence and user experience.",
+                "Enhanced website performance by over **70%**, resulting in faster load times and better functionality.",
+                "Improved **SEO by 50%**, increasing visibility and search engine rankings.",
+                "Implemented accessibility features ensuring the site is user-friendly for individuals with disabilities and fully responsive across devices.",
+                "Migrated over **60%** of content from the old site while modernizing the layout and design.",
+                "Established on-site payment via **Stripe** gateway, generating over **$2000** within the first three months of deployment."
+            ],
+            "dateText": "05/23 – 02/24"
+        },
+        {
             "title": "Web Developer",
             "subtitle": "VIP Shipping LLC",
             "workType": "FreeLance",
             "workDescription": [
-                "Managed the company's website on WordPress.",
+                "Managed the company's website on **WordPress**.",
                 "Handled adding WordPress **themes** and **plugins**.",
                 "Reduced the loading speed by **30%**.",
-                "Improved the SEO by 20% via adding relevant **MetaTags** to"
+                "Improved the SEO by **20%** via adding relevant MetaTags."
             ],
             "dateText": "04/21 – 10/21"
         }
